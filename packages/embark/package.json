@@ -63,7 +63,7 @@
     ]
   },
   "dependencies": {
-    "@babel/runtime-corejs3": "7.8.4",
+    "@babel/runtime-corejs3": "7.26.10",
     "ajv": "6.10.2",
     "ascii-table": "0.0.9",
     "async": "3.2.0",
